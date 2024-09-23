@@ -1,0 +1,17 @@
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\bin\Debug\net6.0\Proyecto.Infraestuctura.deps.json
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\bin\Debug\net6.0\Proyecto.Infraestuctura.dll
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\bin\Debug\net6.0\Proyecto.Infraestuctura.pdb
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\obj\Debug\net6.0\Proyecto.Infraestuctura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\obj\Debug\net6.0\Proyecto.Infraestuctura.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\obj\Debug\net6.0\Proyecto.Infraestuctura.AssemblyInfo.cs
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\obj\Debug\net6.0\Proyecto.Infraestuctura.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\obj\Debug\net6.0\Proyecto.Infraestuctura.dll
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\obj\Debug\net6.0\refint\Proyecto.Infraestuctura.dll
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\obj\Debug\net6.0\Proyecto.Infraestuctura.pdb
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\obj\Debug\net6.0\ref\Proyecto.Infraestuctura.dll
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\bin\Debug\net6.0\Proyecto.BaseDeDatos.dll
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\bin\Debug\net6.0\Proyecto.Dominio.dll
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\bin\Debug\net6.0\Proyecto.Dominio.pdb
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\bin\Debug\net6.0\Proyecto.BaseDeDatos.pdb
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\obj\Debug\net6.0\Proyecto.Infraestuctura.csproj.AssemblyReference.cache
+C:\Users\AMD\Documents\Jirgort\PruebaLogicalData\BackendTestLogicalData\Proyecto.Infraestuctura\obj\Debug\net6.0\Proyecto.72D69E38.Up2Date
