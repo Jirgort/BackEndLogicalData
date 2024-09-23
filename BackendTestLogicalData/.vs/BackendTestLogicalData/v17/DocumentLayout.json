@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\AMD\\Documents\\Jirgort\\PruebaLogicalData\\BackendTestLogicalData\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5ED1557-D132-4A60-B665-4607BC28AAAA}|Proyecto.BaseDeDatos\\Proyecto.BaseDeDatos.csproj|c:\\users\\amd\\documents\\jirgort\\pruebalogicaldata\\backendtestlogicaldata\\proyecto.basededatos\\context\\pruebalogicaldatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ED1557-D132-4A60-B665-4607BC28AAAA}|Proyecto.BaseDeDatos\\Proyecto.BaseDeDatos.csproj|solutionrelative:proyecto.basededatos\\context\\pruebalogicaldatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76DA2245-D9EF-46EB-B636-35B61698AAA8}|BackendTestLogicalData\\API.csproj|c:\\users\\amd\\documents\\jirgort\\pruebalogicaldata\\backendtestlogicaldata\\backendtestlogicaldata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76DA2245-D9EF-46EB-B636-35B61698AAA8}|BackendTestLogicalData\\API.csproj|solutionrelative:backendtestlogicaldata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF67C904-7368-4871-8020-3A9072612E54}|Proyecto.Infraestuctura\\Proyecto.Infraestuctura.csproj|c:\\users\\amd\\documents\\jirgort\\pruebalogicaldata\\backendtestlogicaldata\\proyecto.infraestuctura\\servicios\\serviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF67C904-7368-4871-8020-3A9072612E54}|Proyecto.Infraestuctura\\Proyecto.Infraestuctura.csproj|solutionrelative:proyecto.infraestuctura\\servicios\\serviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,19 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PruebaLogicalDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\Jirgort\\PruebaLogicalData\\BackendTestLogicalData\\Proyecto.BaseDeDatos\\Context\\PruebaLogicalDataContext.cs",
+              "RelativeDocumentMoniker": "Proyecto.BaseDeDatos\\Context\\PruebaLogicalDataContext.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\Jirgort\\PruebaLogicalData\\BackendTestLogicalData\\Proyecto.BaseDeDatos\\Context\\PruebaLogicalDataContext.cs*",
+              "RelativeToolTip": "Proyecto.BaseDeDatos\\Context\\PruebaLogicalDataContext.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:29:20.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Documents\\Jirgort\\PruebaLogicalData\\BackendTestLogicalData\\BackendTestLogicalData\\Program.cs",
+              "RelativeDocumentMoniker": "BackendTestLogicalData\\Program.cs",
+              "ToolTip": "C:\\Users\\AMD\\Documents\\Jirgort\\PruebaLogicalData\\BackendTestLogicalData\\BackendTestLogicalData\\Program.cs*",
+              "RelativeToolTip": "BackendTestLogicalData\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:27:21.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ServicioUsuario.cs",
               "DocumentMoniker": "C:\\Users\\AMD\\Documents\\Jirgort\\PruebaLogicalData\\BackendTestLogicalData\\Proyecto.Infraestuctura\\Servicios\\ServicioUsuario.cs",
               "RelativeDocumentMoniker": "Proyecto.Infraestuctura\\Servicios\\ServicioUsuario.cs",
               "ToolTip": "C:\\Users\\AMD\\Documents\\Jirgort\\PruebaLogicalData\\BackendTestLogicalData\\Proyecto.Infraestuctura\\Servicios\\ServicioUsuario.cs",
               "RelativeToolTip": "Proyecto.Infraestuctura\\Servicios\\ServicioUsuario.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAwwHIAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T08:16:22.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MOrden.cs",
               "DocumentMoniker": "C:\\Users\\AMD\\Documents\\Jirgort\\PruebaLogicalData\\BackendTestLogicalData\\Dominio\\Modelos\\MOrden.cs",
               "RelativeDocumentMoniker": "Dominio\\Modelos\\MOrden.cs",
@@ -59,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MJwt.cs",
               "DocumentMoniker": "C:\\Users\\AMD\\Documents\\Jirgort\\PruebaLogicalData\\BackendTestLogicalData\\Dominio\\Modelos\\MJwt.cs",
               "RelativeDocumentMoniker": "Dominio\\Modelos\\MJwt.cs",
@@ -71,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MAutenticacion.cs",
               "DocumentMoniker": "C:\\Users\\AMD\\Documents\\Jirgort\\PruebaLogicalData\\BackendTestLogicalData\\Dominio\\Modelos\\MAutenticacion.cs",
               "RelativeDocumentMoniker": "Dominio\\Modelos\\MAutenticacion.cs",
@@ -83,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IServicioJWT.cs",
               "DocumentMoniker": "C:\\Users\\AMD\\Documents\\Jirgort\\PruebaLogicalData\\BackendTestLogicalData\\Dominio\\Interfaces\\Servicios\\IServicioJWT.cs",
               "RelativeDocumentMoniker": "Dominio\\Interfaces\\Servicios\\IServicioJWT.cs",

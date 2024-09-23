@@ -23,10 +23,7 @@ namespace Proyecto.BaseDeDatos.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseSqlServer("Server=DESKTOP-QIOFV84\\SQLEXPRESS;Database=PruebaLogicalData;Trusted_Connection=True;TrustServerCertificate=True;");
-            }
+      
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
