@@ -15,6 +15,7 @@ Este proyecto es el back-end de la aplicación que está construida con **.NET C
 Antes de ejecutar el proyecto, es necesario crear la base de datos y sus tablas en **SQL Server**. Para ello:
 
 - Ejecute el script SQL proporcionado para crear la estructura de la base de datos. Esto incluye todas las tablas necesarias para el correcto funcionamiento del back-end.
+- El script se encuentra dentro de la solucion **Proyecto.BaseDeDatos** encontrara la carpeta llamada **Script** que contiene el script.
 
 ### 2. Configuración de la Cadena de Conexión
 
