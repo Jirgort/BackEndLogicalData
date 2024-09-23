@@ -29,3 +29,8 @@ Una vez que la base de datos está lista, es importante configurar la cadena de 
   "ConnectionStrings": {
     "DefaultConnection": "Server=SU_SERVIDOR;Database=PruebaLogicalData;Trusted_Connection=True;TrustServerCertificate=True;"
   }
+   ```
+
+### Contacto
+ - Correo: jirgort@gmail.com
+ - Celular: 63432660
